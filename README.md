@@ -1,4 +1,4 @@
 # linta_Project
 
 
-This is a static Webpage using html,css,javascript
+This project is a static web page made using HTML, and CSS. It contains the concept of Machine Learning & Deep Learning and its implementation using python
